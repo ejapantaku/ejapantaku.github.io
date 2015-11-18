@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Taipei Story Slam</title>
+    <link>http://taipeistoryslam.tumblr.com</link>
+    <description>The live stories told at Taipei's monthly story slam.</description>
+    <itunes:summary>The live stories told at Taipei's monthly story slam.</itunes:summary>
+    <itunes:subtitle />
+    <image>
+      <link>http://taipeistoryslam.tumblr.com</link>
+      <url>https://ia601508.us.archive.org/23/items/TedPigottHandsAndTitle/Ted%20Pigott%20hands%20and%20title_t</url>
+      <title>Taipei Story Slam</title>
+      <height>144</height>
+      <width>144</width>
+    </image>
+    <itunes:image href="https://ia601508.us.archive.org/23/items/TedPigottHandsAndTitle/Ted%20Pigott%20hands%20and%20title_t" />
+    <category>Society &amp; Culture</category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals" />
+    </itunes:category>
+    <language>en-us</language>
+    <copyright>2015. All rights reserved.</copyright>
+    <pubDate>Wed, 18 Nov 2015 07:30:30 GMT</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2015 07:30:30 GMT</lastBuildDate>
+    <generator>Poderator.com</generator>
+    <managingEditor>ejapantaku@gmail.com(Erisa A)</managingEditor>
+    <webMaster>ejapantaku@gmail.com(Erisa A)</webMaster>
+    <itunes:owner>
+      <itunes:name>Erisa A</itunes:name>
+      <itunes:email>ejapantaku@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Erisa J.</itunes:author>
+    <itunes:explicit>yes</itunes:explicit>
+    <ttl>1</ttl>
+    <item>
+      <title>Oh The Horror</title>
+      <link>https://ia601505.us.archive.org/10/items/OhTheHorror181109/Oh%20The%20Horror%20181109.mp3</link>
+      <comments>https://ia601505.us.archive.org/10/items/OhTheHorror181109/Oh%20The%20Horror%20181109.mp3</comments>
+      <itunes:author>Erisa J.</itunes:author>
+      <dc:creator>Erisa J.</dc:creator>
+      <description>The October Taipei Story Slam features Lizzy, Amy, Cameron, Antonella, and Charlie sharing stories on some of the most horrifying topics imaginable: cockroaches, ghosts, China, and God. </description>
+      <content:encoded>The October Taipei Story Slam features Lizzy, Amy, Cameron, Antonella, and Charlie sharing stories on some of the most horrifying topics imaginable: cockroaches, ghosts, China, and God. </content:encoded>
+      <pubDate>Wed, 18 Nov 2015 07:30:30 GMT</pubDate>
+      <itunes:subtitle />
+      <itunes:summary>The October Taipei Story Slam features Lizzy, Amy, Cameron, Antonella, and Charlie sharing stories on some of the most horrifying topics imaginable: cockroaches, ghosts, China, and God. </itunes:summary>
+      <itunes:keywords>horror, halloween, scary, live storytelling, story slam, China, Taipei, Taiwan, cockroaches, ghosts, God</itunes:keywords>
+      <itunes:duration>00:48:34</itunes:duration>
+      <category>Society &amp; Culture</category>
+      <enclosure url="https://ia601505.us.archive.org/10/items/OhTheHorror181109/Oh%20The%20Horror%20181109.mp3" length="46556774" type="audio/mpeg3" />
+      <guid>https://ia601505.us.archive.org/10/items/OhTheHorror181109/Oh%20The%20Horror%20181109.mp3</guid>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+  </channel>
+</rss>
